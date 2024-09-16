@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivani</h1>
-<h3 align="center">A passionate ML developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivani767&label=Profile%20views&color=0e75b6&style=flat" alt="shivani767" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-main-plum-five.vercel.app/](https://portfolio-main-plum-five.vercel.app/)
 
-- 💬 Ask me about **Python, Machine Learning( CNN, NLP & LLM ), C++, React, Typescript , Flask , AWS and Azure AI**
+- 💬 Ask me about **C++, DSA, RDBMS, OS, Debugging, Python, Machine Learning( NLP & LLM ), React, Typescript , Flask,  ETL (Extract, Transform, Load), Mongodb, MySQL, Advance Excel, Hadoop AWS and Azure AI**
 
 - 📫 How to reach me **Shivanibhandari767@gmail.com**
 
