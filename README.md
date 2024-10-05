@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/shivani38373" target="blank"><img src="https://img.shields.io/twitter/follow/shivani38373?logo=twitter&style=for-the-badge" alt="shivani38373" /></a> </p>
 
-- 🔭 I’m currently working on [Hospital Website](https://github.com/Shivani767/Hospital_Website)
+- 🔭 I’m currently working on [Silvermist-College-App](https://github.com/Shivani767/Silvermist-College-App)
 
 - 🌱 I’m currently learning **Think Autonomous Course by Jeremy Cohen**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-main-plum-five.vercel.app/](https://portfolio-main-plum-five.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://shivani767.github.io/Portfolio-main/](https://shivani767.github.io/Portfolio-main/)
 
 - 💬 Ask me about **C++, DSA, RDBMS, OS, Debugging, Python, Machine Learning( NLP & LLM ), React, Typescript , Flask,  ETL (Extract, Transform, Load), Mongodb, MySQL, Advance Excel, Hadoop AWS and Azure AI**
 
