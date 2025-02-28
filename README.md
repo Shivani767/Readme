@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/shivani38373" target="blank"><img src="https://img.shields.io/twitter/follow/shivani38373?logo=twitter&style=for-the-badge" alt="shivani38373" /></a> </p>
 
-- 🔭 I’m currently working on [Silvermist-College-App](https://github.com/Shivani767/Silvermist-College-App)
+- 🔭 I’m currently working on Client Project for building Restaurent Website using Typscript and AI.
 
-- 🌱 I’m currently learning **Think Autonomous Course by Jeremy Cohen**
+- 🌱 I’m currently learning AI advanced Concepts
 
 - 👨‍💻 All of my projects are available at [https://shivani767.github.io/Portfolio-main/](https://shivani767.github.io/Portfolio-main/)
 
