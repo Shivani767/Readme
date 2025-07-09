@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivani</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate AI Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivani767&label=Profile%20views&color=0e75b6&style=flat" alt="shivani767" /> </p>
 
@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/shivani38373" target="blank"><img src="https://img.shields.io/twitter/follow/shivani38373?logo=twitter&style=for-the-badge" alt="shivani38373" /></a> </p>
 
-- 🔭 I’m currently working on Client Project for building Restaurent Website using Typscript and AI.
+- 🔭 I’m currently working on Multimodel Search Engine using Typscript and AI.
 
-- 🌱 I’m currently learning AI advanced Concepts
+- 🌱 I’m currently learning Gen AI and Frontend advanced Concepts
 
 - 👨‍💻 All of my projects are available at [https://shivani767.github.io/Portfolio-main/](https://shivani767.github.io/Portfolio-main/)
 
-- 💬 Ask me about **C++, DSA, RDBMS, OS, Debugging, Python, Machine Learning( NLP & LLM ), React, Typescript , Flask,  ETL (Extract, Transform, Load), Mongodb, MySQL, Advance Excel, Hadoop AWS and Azure AI**
+- 💬 Ask me about **C++, DSA, Python, Machine Learning, Deep Learning, Gen AI,  React, Typescript , Nextjs, MERN, Flask, Mongodb, MySQL, **
 
-- 📫 How to reach me **Shivanibhandari767@gmail.com**
+- 📫 How to reach me **Shivani215143@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/Shivani767/Portfolio-main/blob/Shivani/Resume.pdf](https://github.com/Shivani767/Portfolio-main/blob/Shivani/Resume.pdf)
 
@@ -45,5 +45,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivani767&show_icons=true&locale=en" alt="shivani767" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivani767&" alt="shivani767" /></p>
+
 
