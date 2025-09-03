@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shivani767.github.io/Portfolio-main/](https://shivani767.github.io/Portfolio-main/)
 
-- 💬 Ask me about **C++, DSA, Python, Machine Learning, Deep Learning, Gen AI,  React, Typescript , Nextjs, MERN, Flask, Mongodb, MySQL, **
+- 💬 Ask me about **C++, DSA, Python, Machine Learning, Deep Learning, Gen AI,  React, Flask **
 
 - 📫 How to reach me **Shivani215143@gmail.com**
 
