@@ -9,15 +9,12 @@
 
 - 🔭 I’m currently working on Multimodel Search Engine using Typscript and AI.
 
-- 🌱 I’m currently learning Gen AI and Frontend advanced Concepts
+- 🌱 I’m currently learning Gen AI  advanced Concepts
 
-- 👨‍💻 All of my projects are available at [https://shivani767.github.io/Portfolio-main/](https://shivani767.github.io/Portfolio-main/)
 
 - 💬 Ask me about **C++, DSA, Python, Machine Learning, Deep Learning, Gen AI,  React, Flask **
 
-- 📫 How to reach me **Shivani215143@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/Shivani767/Portfolio-main/blob/Shivani/Resume.pdf](https://github.com/Shivani767/Portfolio-main/blob/Shivani/Resume.pdf)
+- 📫 How to reach me **Shivanibhandariitd@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
