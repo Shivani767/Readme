@@ -44,22 +44,45 @@ AWS • GCP • Docker • Linux • Git
 
 ## Featured Projects
 
+### CodeAI-Assistant
+An AI-powered developer assistant that analyzes codebases and provides contextual code explanations, suggestions, and documentation using large language models. The system processes repository structures, extracts dependencies, and generates intelligent insights to assist developers during coding and debugging.
+
+**Key Features**
+- Context-aware code explanation and documentation generation
+- Intelligent code suggestions and refactoring support
+- Repository structure analysis for better code understanding
+- REST API integration for developer tools
+
+**Tech Stack**  
+Python • LLMs • FastAPI • NLP • AI Code Analysis
+
+---
+
+### Cognitive Vision-Language Model Analyzer
+A multimodal AI system that combines computer vision and natural language processing to understand and generate semantic descriptions of images. The model aligns visual and textual embeddings in a shared representation space, enabling tasks such as image captioning, semantic search, and cross-modal retrieval.
+
+**Key Features**
+- Vision-language multimodal learning
+- Image caption generation
+- Cross-modal semantic retrieval
+- Contrastive learning for embedding alignment
+
+**Tech Stack**  
+Python • PyTorch • Vision Transformers • Multimodal AI • Deep Learning
+
+---
+
 ### Multimodal Search Engine
-AI-powered search system capable of retrieving images, text, and video using semantic embeddings.
+An AI-powered search system capable of retrieving images, text, and video using semantic embeddings. The platform converts different data modalities into a unified vector representation, enabling cross-modal search such as finding images through text queries or retrieving related videos from semantic prompts.
 
-Tech: Python, TypeScript, Vector Search, Deep Learning
+**Key Features**
+- Cross-modal search (text ↔ image ↔ video)
+- Vector embedding-based similarity search
+- Scalable multimedia indexing
+- Real-time semantic query processing
 
----
-
-### Weapon Detection System
-Real-time weapon detection from video streams using YOLO and computer vision.
-
-Tech: Python, OpenCV, Deep Learning
-
----
-
-### Medical Report Scanner
-AI-based document processing system that extracts structured information from medical reports.
+**Tech Stack**  
+Python • TypeScript • Vector Search • Deep Learning • AI Retrieval
 
 Tech: Python, NLP, OCR
 
@@ -68,10 +91,10 @@ Tech: Python, NLP, OCR
 ## Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/shivani-bhandari-2840aa226"><img src="https://skillicons.dev/icons?i=linkedin" height="30"></a>
+<a href="https://www.linkedin.com/in/shivani-2840aa226/"><img src="https://skillicons.dev/icons?i=linkedin" height="30"></a>
 <a href="https://twitter.com/shivani38373"><img src="https://skillicons.dev/icons?i=twitter" height="30"></a>
 <a href="https://dev.to/shivani258"><img src="https://skillicons.dev/icons?i=devto" height="30"></a>
-<a href="https://medium.com/@shivanibhandari767"><img src="https://skillicons.dev/icons?i=medium" height="30"></a>
+
 </p>
 
 ---
