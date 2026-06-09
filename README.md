@@ -26,12 +26,6 @@ Python • PyTorch • TensorFlow • Scikit-learn • OpenCV • HuggingFace
 ### LLM / Generative AI
 Transformers • RAG • Embeddings • Semantic Search • Vector Databases
 
-### Backend Development
-FastAPI • Flask • Node.js • REST APIs
-
-### Frontend
-React • Next.js • TypeScript • JavaScript • HTML • CSS
-
 ### Data & Databases
 Pandas • NumPy • MongoDB • PostgreSQL • MySQL
 
