@@ -56,14 +56,4 @@ AWS • GCP • Docker • Linux • Git
 
 LeetCode • HackerRank • CodeChef • GeeksforGeeks
 
----
 
-## GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shivani767&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivani767&layout=compact&theme=tokyonight"/>
-</p>
